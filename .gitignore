@@ -1,0 +1,9 @@
+# Compiled executable files
+*.exe
+
+# Object files
+*.o
+
+# IDE settings
+.vscode/
+.idea/
